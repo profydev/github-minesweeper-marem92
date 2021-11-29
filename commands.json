@@ -24,6 +24,10 @@
     "clear A6",
     "flag B6",
     "clear C6",
-    "Clear D6"
+    "Clear D6",
+    "flag E6",
+    "flag F6",
+    "flag D7",
+    "clear D8"
   ]
 }
